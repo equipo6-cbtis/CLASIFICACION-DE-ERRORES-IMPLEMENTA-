@@ -1,1 +1,53 @@
+#include <iostream>
+using namespace std;
+int main ()
+{
+	int a, b, c, suma;
+	suma= a+b+c;
+	cout << "la suma total es: "<<suma;
 
+	return 0;
+}
+practica 2
+#include <iostream>
+	
+	int main()
+	{
+		std::cout<<"Hello World";
+		
+		return 0;	
+	}
+	
+practica3
+#include <iostream>
+
+using namespace std;
+
+int main(){
+
+	int a=10;
+	
+	
+	cout<< "  " << a;
+practica 4
+#include <iostream>
+	
+	using namespace std;
+	
+	int main (void)
+	{
+	
+		int a, b, end1;
+		cout<<"ingrese primer numero: "<<end1;
+		cin>>a;
+		cout<<"ingrese segundo numero: "<<end1;
+		cin>>b;
+		int suma=a+b;
+		cout<<"el resultado es: "<<suma<<end1;
+		system ("pause");
+		return 0;
+	}
+	
+
+	
+}
