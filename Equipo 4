@@ -17,4 +17,41 @@ int main()
 	
 	
 }
+pactica3
+#include <iostream>
+using namespace std;
+ 
+int main()
+{
+	int a, b; 
+	
+	cout << "ingresa el primer numero: ";
+	cin >> a;
+	
+	cout<<"ingresa el segundo numero: ";
+	cin >> b;
+	
+	int suma = a + b;
+
+ 
+	cout << "el resultado es: "<< suma << endl;
+	
+	system("pause");
+	return 0;
+}
+practica4
+#include <iostream>
+using namespace std;
+int main()
+{
+	int a, b, c, suma;
+	cout << "ingresa tres numeros: ";
+	cin >> a >> b >> c;
+	suma = a + b + c;
+	cout << "la suma total es: "<< suma <<endl;
+	return 0;
+}
+
+
+
 
