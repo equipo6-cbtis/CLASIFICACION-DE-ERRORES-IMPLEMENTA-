@@ -1,1 +1,54 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a, b;
+    int suma;  
+    
+    cout << "ingrese primer numero: " << endl;
+    cin >> a;
+    cout << "ingrese segundo numero: " << endl;
+    cin >> b;
+    
+    suma = a + b;  
+    
+    cout << "el resultado es: " << suma << endl;  
+    system("pause");
+    return 0;
+}
+
+2
+#include <iostream>
+
+int main()
+{
+    std::cout<<"Hello World";
+
+    return 0;
+}
+
+3
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a =10;
+    cout"<<a;
+}
+
+4
+#include <iostream>
+using namespace std;
+int main() {  
+    int a, b, c, suma;
+    
+    cout << "Ingresa 3 numeros: ";
+    cin >> a >> b >> c; 
+    
+    suma = a + b + c;
+    cout << "La suma total es: " << suma << endl; 
+    
+    return 0;
+}
 
