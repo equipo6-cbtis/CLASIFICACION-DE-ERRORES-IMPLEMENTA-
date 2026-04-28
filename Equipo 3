@@ -13,3 +13,44 @@ int main(void) {
 
     return 0;
 }
+practica2 
+#include <iostream>
+
+int main(void)
+{
+    std::cout << "Hello World" << std::endl;
+
+    return 0;
+}
+practica3
+#include <iostream>
+
+using namespace std;
+
+int main(void){
+    int a = 10;  
+
+    cout << " " << a;
+
+}
+
+
+practica4 
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 5, b = 10, c = 15; 
+    int suma;
+
+    suma = a + b + c;
+
+    cout << "la suma total es: " << suma << endl;
+
+    return 0;
+}
+
+
+
+
+
