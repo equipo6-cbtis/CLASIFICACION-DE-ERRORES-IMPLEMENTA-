@@ -32,7 +32,18 @@ using namespace std;
 int main (){
 	int a=10;
 	cout <<""<<a;
-	
+practica4 
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a, b, c, suma;
+    suma = a + b + c;
+    cout << "la suma total es: " << suma << endl;
+
+    return 0;
+}
 	
 }
 
