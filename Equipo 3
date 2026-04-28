@@ -1,1 +1,15 @@
+#include <iostream>
+using namespace std;
 
+int main(void) {
+    int a, b;
+    cout << "Ingresa el primer número: " << endl;
+    cin >> a;
+    cout << "Ingresa el segundo número: " << endl;
+    cin >> b;
+
+    int suma = a + b;
+    cout << "El resultado es: " << suma << endl;
+
+    return 0;
+}
