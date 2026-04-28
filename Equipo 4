@@ -5,4 +5,16 @@ int main()
 	std::cout<<"hello world";
 	return 0;
 }
+practica3
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int a =10;
+	
+	cout<<" "<<a;
+	
+	
+}
 
